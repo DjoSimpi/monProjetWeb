@@ -1,0 +1,5 @@
+les fichiers et dossiers quon souhaite ignorer
+
+On ignore tout ce qui fini par tmp e log.txt
+*tmp 
+log.text
